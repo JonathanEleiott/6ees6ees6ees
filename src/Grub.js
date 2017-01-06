@@ -5,8 +5,6 @@ class Grub {
     this.food = 'jelly';
   }
 
-  eat () {
-    return 'Mmmmmmmmm jelly';
-  }
+  eat () { return 'Mmmmmmmmm jelly'; }
 };
 
